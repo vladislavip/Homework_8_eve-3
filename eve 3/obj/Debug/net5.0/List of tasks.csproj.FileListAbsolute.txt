@@ -1,0 +1,16 @@
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\bin\Debug\net5.0\List of tasks.exe
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\bin\Debug\net5.0\List of tasks.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\bin\Debug\net5.0\List of tasks.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\bin\Debug\net5.0\List of tasks.runtimeconfig.dev.json
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\bin\Debug\net5.0\List of tasks.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\bin\Debug\net5.0\ref\List of tasks.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\bin\Debug\net5.0\List of tasks.pdb
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\List of tasks.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\List of tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\List of tasks.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\List of tasks.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\List of tasks.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\List of tasks.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\ref\List of tasks.dll
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\List of tasks.pdb
+C:\Users\Thinkpad PC\Desktop\Programing-20211208T160136Z-001\Programing\Homeworks\Homework_8_eve 3\Task 1\eve 3\obj\Debug\net5.0\List of tasks.genruntimeconfig.cache
